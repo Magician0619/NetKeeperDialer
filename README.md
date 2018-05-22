@@ -1,6 +1,6 @@
 # NetKeeperDialer
 
-![NetKeeper](https://github.com/lmgy/NetKeeper/blob/master/icon.ico)  
+![NetKeeper](https://github.com/lmgy/NetKeeperDialer/blob/master/NetKeeperDialer/icon.ico)  
 截取NetKeeper拨号时的真实账号，并自动post到路由器，实现路由器上网。  
 
 CQUPT,TP-Link TL-WR842N测试可以使用。
@@ -14,4 +14,5 @@ CQUPT,TP-Link TL-WR842N测试可以使用。
 
 ## Ps
 
-如果不能用，可能是创翼客户端的问题或者是路由器的问题，目前只试过TP-Link TL-WR842N，其他型号路由器可以自己去抓包，然后自己写。
+1. 使用了MetroModernUI.1.4.0.0，没有的自己在NuGet里添加。
+2. 如果不能用，可能是创翼客户端的问题或者是路由器的问题，目前只试过TP-Link TL-WR842N，其他型号路由器可以自己去抓包，然后自己写。
