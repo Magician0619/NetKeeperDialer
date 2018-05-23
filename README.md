@@ -1,6 +1,6 @@
 # NetKeeperDialer
 
-![NetKeeper](https://github.com/lmgy/NetKeeperDialer/blob/master/NetKeeperDialer/icon.ico)  
+![NetKeeper](https://github.com/lmgy/NetKeeperDialer/blob/master/readme/0.jpg)  
 截取NetKeeper拨号时的真实账号，并自动post到路由器，实现路由器上网。  
 
 CQUPT,TP-Link TL-WR842N测试可以使用。
