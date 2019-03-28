@@ -5,6 +5,8 @@
 
 CQUPT,TP-Link TL-WR842N测试可以使用。
 
+软件下载地址：[NetKeeperDialer-1.0](https://github.com/lmgy/NetKeeperDialer/releases/download/1.0/NetKeeperDialer-Release.zip)
+
 ## 使用方法
 
 1. 使用创翼的**4.7.9.589**版本（其他版本未测试）
@@ -19,3 +21,5 @@ CQUPT,TP-Link TL-WR842N测试可以使用。
 2. 如果不能用，可能是创翼客户端的问题或者是路由器的问题，目前只试过**TP-Link TL-WR842N**，其他型号路由器可以自己去抓包，然后自己写。
 3. 目前最新版本的创翼无法使用，请使用**4.7.9.589**版本
 4. 创翼会自动更新，可以删除创翼目录下的**update.exe**
+
+创翼**4.7.9.589**版本下载链接：[https://github.com/lmgy/NetKeeperDialer/blob/master/windows589.rar](https://github.com/lmgy/NetKeeperDialer/blob/master/windows589.rar)
